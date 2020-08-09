@@ -2,7 +2,7 @@
 
 <h1 align="center">Facilidade em encontrar professor</h1>
 
-## Descrição do Projeto
+## Aplicação desenvolvida durante a semana Next Level Week da Rockeseat na trilha Omnistack!
 <p align="center">Encontre o professor da matéria desejada, obtendo a opção de estar entrando em contato com ele via whatsapp, altém de favoritar o mesmo.</p>
 
 
