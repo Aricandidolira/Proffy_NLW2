@@ -3,7 +3,7 @@
 <h1 align="center">Facilidade em encontrar professor</h1>
 
 ## Descrição do Projeto
-<p align="center">Escrever uma breve descrição</p>
+<p align="center">Encontre o professor da matéria desejada, obtendo a opção de estar entrando em contato com ele via whatsapp, altém de favoritar o mesmo.</p>
 
 
 ### 🛠 Tecnologias
